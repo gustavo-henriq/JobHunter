@@ -1,0 +1,103 @@
+[
+    {
+        "profile_id": "entry_ai_web",
+        "skills": [
+            "Python",
+            "JavaScript",
+            "React.js",
+            "MySQL",
+            "Automação",
+            "Inteligência Artificial",
+            "Web Scraping",
+            "ETL",
+            "APIs REST",
+            "GCP",
+            "Linux",
+            "Git"
+        ],
+        "career_stage": "entry",
+        "target_roles": [
+            "desenvolvedor fullstack",
+            "backend",
+            "engenheiro de software",
+            "engenheiro de prompt",
+            "IA",
+            "automação"
+        ],
+        "avoid_keywords": [
+            "líder",
+            "gestor",
+            "coordenador",
+            "mestre",
+            "pleno",
+            "senior",
+            "phd",
+            "vendas",
+            "vendedor",
+            "professor"
+        ],
+        "preferred_keywords": [
+            "python",
+            "LLMs",
+            "machine learning",
+            "playwright",
+            "data pipeline"
+        ],
+        "work_mode": null,
+        "salary_expectation": null,
+        "languages": {
+            "pt": "native",
+            "en": "advanced"
+        },
+        "location": "São Paulo"
+    },
+    {
+        "profile_id": "senior_platform_cloud",
+        "skills": [
+            "Node.js",
+            "React.js",
+            "Go",
+            "Kubernetes",
+            "AWS (Lambda, S3, RDS)",
+            "Terraform",
+            "Microservices",
+            "Apache Kafka",
+            "PostgreSQL",
+            "Redis",
+            "CI/CD Pipelines",
+            "System Design"
+        ],
+        "career_stage": "senior_lead",
+        "target_roles": [
+            "senior software engineer",
+            "fullstack developer senior",
+            "tech lead",
+            "solutions architect",
+            "engenheiro de software especialista"
+        ],
+        "avoid_keywords": [
+            "junior",
+            "estagiário",
+            "trainee",
+            "suporte técnico",
+            "assistente",
+            "auxiliar",
+            "entry level"
+        ],
+        "preferred_keywords": [
+            "high availability",
+            "scalability",
+            "event-driven architecture",
+            "cloud native",
+            "distributed systems",
+            "mentoria"
+        ],
+        "work_mode": "remote",
+        "salary_expectation": "15000 - 22000 BRL",
+        "languages": {
+            "pt": "native",
+            "en": "fluent"
+        },
+        "location": "Brasil / Exterior"
+    }
+]
