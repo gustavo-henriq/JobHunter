@@ -24,6 +24,14 @@
             "IA",
             "automação"
         ],
+        "target_areas": [
+            "Desenvolvimento de Software",
+            "Web Development",
+            "Automação",
+            "Inteligência Artificial",
+            "Engenharia de Software",
+            "Data Engineering"
+        ],
         "avoid_keywords": [
             "líder",
             "gestor",
@@ -74,6 +82,13 @@
             "tech lead",
             "solutions architect",
             "engenheiro de software especialista"
+        ],
+        "target_areas": [
+            "Cloud Infrastructure",
+            "Platform Engineering",
+            "Distributed Systems",
+            "DevOps",
+            "Arquitetura de Software"
         ],
         "avoid_keywords": [
             "junior",

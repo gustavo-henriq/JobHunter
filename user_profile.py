@@ -30,6 +30,7 @@ def build_profile_prompt(profile_id):
 
     skills = ", ".join(profile.get("skills", [])) or "not specified"
     target_roles = ", ".join(profile.get("target_roles", [])) or "not specified"
+    target_areas = ", ".join(profile.get("target_areas", [])) or "not specified"
     avoid_keywords = ", ".join(profile.get("avoid_keywords", [])) or "none"
     preferred_keywords = ", ".join(profile.get("preferred_keywords", [])) or "none"
     career_stage = profile.get("career_stage") or "not specified"
@@ -41,6 +42,7 @@ def build_profile_prompt(profile_id):
         f"This is the profile '{profile_id}'. "
         f"The candidate career stage is {career_stage}. "
         f"The main target roles are {target_roles}. "
+        f"The target professional areas are {target_areas}. "
         f"The main skills are {skills}. "
         f"Preferred keywords are {preferred_keywords}. "
         f"Avoid these keywords: {avoid_keywords}. "
